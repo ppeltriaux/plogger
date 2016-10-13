@@ -7,8 +7,8 @@ setup (
         version = '0.1',
         description = 'pascal peltriaux logger class',
         author = 'Pascal Peltriaux',
-        author_email = 'pascal.peltriaux@servicenow.com',
-        url = 'git@gitlab.service-now.com:pascal.peltriaux/plogger.git',
+        author_email = 'ppeltriaux@gmail.com',
+        url = 'https://github.com/ppeltriaux/plogger.git',
         packages = [ 'plogger' ],
-        license = 'ServiceNow Proprietary License'
+        license = 'GPL'
 )
